@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\source\\repos\\librosApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|c:\\users\\home\\source\\repos\\librosapi\\librosapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|solutionrelative:librosapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|c:\\users\\home\\source\\repos\\librosapi\\librosapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|solutionrelative:librosapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|c:\\users\\home\\source\\repos\\librosapi\\librosapi\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|solutionrelative:librosapi\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|c:\\users\\home\\source\\repos\\librosapi\\librosapi\\domain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|solutionrelative:librosapi\\domain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|c:\\users\\home\\source\\repos\\librosapi\\librosapi\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|solutionrelative:librosapi\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|c:\\users\\home\\source\\repos\\librosapi\\librosapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|solutionrelative:librosapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|c:\\users\\home\\source\\repos\\librosapi\\librosapi\\repository\\dbcontextbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|solutionrelative:librosapi\\repository\\dbcontextbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|c:\\users\\home\\source\\repos\\librosapi\\librosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3C2DA0-7FBD-4E73-BD4B-769697A450A3}|librosApi\\librosApi.csproj|solutionrelative:librosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "librosApi\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "librosApi\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:57:58.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "librosApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "librosApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:57:41.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Domain\\Author.cs",
+              "RelativeDocumentMoniker": "librosApi\\Domain\\Author.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Domain\\Author.cs",
+              "RelativeToolTip": "librosApi\\Domain\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:56:50.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Domain\\Book.cs",
+              "RelativeDocumentMoniker": "librosApi\\Domain\\Book.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Domain\\Book.cs",
+              "RelativeToolTip": "librosApi\\Domain\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:55:52.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Repository\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "librosApi\\Repository\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Repository\\AuthorRepository.cs",
+              "RelativeToolTip": "librosApi\\Repository\\AuthorRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:55:23.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "librosApi\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "librosApi\\Repository\\BookRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:54:25.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbcontextBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Repository\\DbcontextBooks.cs",
+              "RelativeDocumentMoniker": "librosApi\\Repository\\DbcontextBooks.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Repository\\DbcontextBooks.cs",
+              "RelativeToolTip": "librosApi\\Repository\\DbcontextBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T23:53:40.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Program.cs",
+              "RelativeDocumentMoniker": "librosApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\librosApi\\librosApi\\Program.cs",
+              "RelativeToolTip": "librosApi\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T20:56:48.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

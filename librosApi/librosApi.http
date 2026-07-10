@@ -1,0 +1,9 @@
+@librosApi_HostAddress = http://localhost:5161
+
+GET {{librosApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{librosApi_HostAddress}}/api/Books
+Accept: application/json
